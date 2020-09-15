@@ -45,7 +45,7 @@ Add here credits. Project inspired by..., based on...
 
 ## Contact
 * Christine
-* Waqas
+* Waqas: waqas.naveed@gmail.com, 027 4155289
 * Jay
 * Linda
 * Sarah: xiaohong.sarah.chen@gmail.com, 027-388-5968
