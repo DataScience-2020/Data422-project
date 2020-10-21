@@ -1,0 +1,24 @@
+id,created_at,name,slug
+4,1297555200,Fighting,fighting
+5,1297555200,Shooter,shooter
+7,1297555200,Music,music
+8,1297555200,Platform,platform
+9,1297555200,Puzzle,puzzle
+10,1297555200,Racing,racing
+11,1297555200,Real Time Strategy (RTS),real-time-strategy-rts
+12,1297555200,Role-playing (RPG),role-playing-rpg
+13,1297555200,Simulator,simulator
+14,1297555200,Sport,sport
+15,1297555200,Strategy,strategy
+16,1297641600,Turn-based strategy (TBS),turn-based-strategy-tbs
+24,1300924800,Tactical,tactical
+26,1301961600,Quiz/Trivia,quiz-trivia
+25,1301616000,Hack and slash/Beat 'em up,hack-and-slash-beat-em-up
+30,1320192000,Pinball,pinball
+31,1323561600,Adventure,adventure
+33,1380931200,Arcade,arcade
+34,1571788800,Visual Novel,visual-novel
+32,1341360000,Indie,indie
+35,1588809600,Card & Board Game,card-and-board-game
+36,1588809600,MOBA,moba
+2,1297555200,Point-and-click,point-and-click
