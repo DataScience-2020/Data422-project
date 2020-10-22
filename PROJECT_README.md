@@ -59,5 +59,5 @@ We all came up with different and unique ideas at the start and they all were so
 * Christine
 * Waqas: waqas.naveed@gmail.com, 027 4155289
 * Jay: Jian ZHOU 51404140
-* Linda
+* Linda: Jiaying Zhu 44820888 jzh209@uclive.ac.nz
 * Sarah: xiaohong.sarah.chen@gmail.com, 027-388-5968
