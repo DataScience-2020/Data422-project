@@ -58,6 +58,6 @@ We all came up with different and unique ideas at the start and they all were so
 ## Contact
 * Christine
 * Waqas: waqas.naveed@gmail.com, 027 4155289
-* Jay: Jian ZHOU 51404140
+* Jay
 * Linda
 * Sarah: xiaohong.sarah.chen@gmail.com, 027-388-5968
