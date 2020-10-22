@@ -13,9 +13,17 @@ First repository on Github
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## General info
+## Sequence_of_Files_to-Run
 The idea is to provide a platform to the game publisher to find the relevant characters & the countries to publish the new game. 
 We have gathered the data from multiple sources, wrangle it, join it and made a meaningful information which can then be used for game publication. 
+
+1. Run the IGDB Notebook under IGDB\Codes\IGDB_games_infor_scrap_main.ipynb
+2. Run the IGDB Company_ID Notebook under IGDB\Codes\(unfinished)IGDB_company_id_underwork.ipynb
+   2.1. Copy the data files 'game_ageRating', 'games_genres' & 'game_companies' from IGDB\Docs to IMDB\data
+3. RUn the movie_stars.ipynb from \IMDB\code
+4. This extract the movie data incuding actor, companies, games genres and their id. 
+5. We have merged the data from IMDB with IGDB but the second step where the company id is suppose to be extracted from the keywords was not finished yet. 
+
 
 ## Technologies
 * R
@@ -57,7 +65,7 @@ We all came up with different and unique ideas at the start and they all were so
 
 ## Contact
 * Christine: Shi Chen sch405@uclive.ac.nz
-* Waqas: waqas.naveed@gmail.com
+* Waqas: waqas.naveed@uclive.ac.nz
 * Jay: Jian ZHOU
 * Linda: Jiaying Zhu jzh209@uclive.ac.nz
 * Sarah: Xiaohong Chen xch121@uclive.ac.nz
