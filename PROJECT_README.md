@@ -56,8 +56,8 @@ We all came up with different and unique ideas at the start and they all were so
 
 
 ## Contact
-* Christine
-* Waqas: waqas.naveed@gmail.com, 027 4155289
-* Jay: Jian ZHOU 51404140
-* Linda: Jiaying Zhu 44820888 jzh209@uclive.ac.nz
-* Sarah: xiaohong.sarah.chen@gmail.com, 027-388-5968
+* Christine: Shi Chen sch405@uclive.ac.nz
+* Waqas: waqas.naveed@gmail.com
+* Jay: Jian ZHOU
+* Linda: Jiaying Zhu jzh209@uclive.ac.nz
+* Sarah: Xiaohong Chen xch121@uclive.ac.nz
