@@ -14481,16 +14481,25 @@ Julia technique: </li>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h4 id="Techniques">Techniques<a class="anchor-link" href="#Techniques">&#182;</a></h4><blockquote><p>NLP analysis to extract geographic locations from movie stories, and created wordcloud for characters and storylines from both IGDB and IMDB datasets.</p>
-<p>Incrementally save data to files.</p>
-<p>Two steps approach:</p>
+<h4 id="Techniques">Techniques<a class="anchor-link" href="#Techniques">&#182;</a></h4><ul>
+<li><p>NLP analysis to extract geographic locations from movie stories, and created wordcloud for characters and storylines from both IGDB and IMDB datasets.</p>
+</li>
+<li><p>Incrementally save data to files.</p>
+</li>
+<li><p>Two steps approach:</p>
 <blockquote><ol>
 <li>Movie data with IMDb ID. </li>
 <li>Scrape cast page based on movie table.</li>
 </ol>
 </blockquote>
-<p>Multitasking process</p>
+</li>
+<li><p>Multitasking process.</p>
+<blockquote><p>Run multiple processes at the same time to make it as quickly as possible, because IMDB contains around 10,000 movies for each year’s record, which can take days to scrape them all. Multitasking makes the scraping process less painful. 
+<img src="../IMDB/pic/multi-tasking.png" alt="">
+  <em>Figure 1</em> - Multitasking Process</p>
 </blockquote>
+</li>
+</ul>
 
 </div>
 </div>
@@ -14513,19 +14522,19 @@ Julia technique: </li>
 <li><p>Game Keywords</p>
 <blockquote><p>Game data is extracted from IGDB csv files and Twitter API.
 <img src="../IMDB/pic/game_keywords.png" alt="">
-  <em>Figure 1</em> - Game Keywords in NLP Wordcloud2</p>
+  <em>Figure 2</em> - Game Keywords in NLP Wordcloud2</p>
 </blockquote>
 </li>
 <li><p>Game &amp; Movie comparison</p>
 <blockquote><p>The similarity between game and movie characters is obvious when they both possess <em>Doctor</em> or <em>Dr.</em> and <em>Caption</em>, but there are also fundamentally contrasting and very different perspectives in terms of storylines. For example, game storylines are very intense and combat, or even violent, however, movie storylines are more relaxed, entertaining and family elements centered.
 <img src="../IMDB/pic/game_movie_compare.png" alt="">
-  <em>Figure 2</em> - Game &amp; Movie Comparison in NLP Wordcloud2</p>
+  <em>Figure 3</em> - Game &amp; Movie Comparison in NLP Wordcloud2</p>
 </blockquote>
 </li>
 <li><p>Storyline Locations</p>
 <blockquote><p>Plot movie storylines geographic data extracted from movie stories by using CLAVIN on GitHub. Use Simple Features (sf) R library combined with a world geojson file found online to plot storyline locations in 2010 and 2020. It is evident that India, China, France, Mexico and Japan are some of the hotspots. The popularity of India continues but China decreases. 
 <img src="../IMDB/pic/storyline_2010-2020.gif" alt="">
-  <em>Figure 3</em> - Storyline popluar locations in 2010 &amp; 2020</p>
+  <em>Figure 4</em> - Storyline popluar locations in 2010 &amp; 2020</p>
 </blockquote>
 </li>
 </ul>
