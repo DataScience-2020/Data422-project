@@ -64,8 +64,4 @@ We all came up with different and unique ideas at the start and they all were so
 
 
 ## Contact
-* Christine: Shi Chen sch405@uclive.ac.nz
-* Waqas: waqas.naveed@uclive.ac.nz
-* Jay: Jian ZHOU
-* Linda: Jiaying Zhu jzh209@uclive.ac.nz
-* Sarah: Xiaohong Chen xch121@uclive.ac.nz
+
